@@ -134,6 +134,12 @@ section{
                     border: 3px solid #fb5813;
                     color: #fb5813;
                     margin-right: 30px;
+                    transition: ease-in .3s;
+                }
+
+                div a:hover{
+                    background-color: #fb5813;
+                    color: #fff;
                 }
                 
 
